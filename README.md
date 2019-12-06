@@ -1,4 +1,4 @@
-# Front-end Challenges Club 003 challenge
+# Front-End Challenges Club 003 challenge
 
  First challenge for the Front-end Challenges Club.
 
