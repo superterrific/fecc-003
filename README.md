@@ -1,6 +1,6 @@
-# Front-End Challenges Club 003 challenge
+# Front-End Challenges Club 003 Challenge
 
- First challenge for the Front-end Challenges Club.
+ Third challenge for the Front-End Challenges Club.
 
  ## Links 🔗
  [Challenge info](https://front-end-challenges.club/challenge-003-duotone-card/)
@@ -9,4 +9,4 @@
 
  [Challenge Submission](https://superterrific.github.io/fecc-003/)
 
- Front-end Challenge Club is created by [Andy Bell](https://hankchizljaw.com/), [sign up here](https://front-end-challenges.club/)!
+ Front-End Challenges Club is created by [Andy Bell](https://hankchizljaw.com/), [sign up here](https://front-end-challenges.club/)!
