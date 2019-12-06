@@ -96,8 +96,8 @@ select {
 
 body {
   display: grid;
-  justify-content: center;
-  align-content: center;
+  justify-items: center;
+  align-items: center;
   font-family: Georgia, sans-serif;
   font-size: 1rem;
   padding: 1rem;
