@@ -97,10 +97,9 @@ select {
 body {
   display: grid;
   justify-items: center;
-  align-items: center;
   font-family: Georgia, sans-serif;
   font-size: 1rem;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
  }
 
 h1 {
